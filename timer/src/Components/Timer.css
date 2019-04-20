@@ -1,0 +1,18 @@
+.timer--element {
+  margin-top: 20px;
+}
+
+.timer--digit {
+  display: inline-block;
+  margin-right: 15px;
+  border: 1px solid #D3D3D3;
+  border-radius: 5px;
+  padding: 10px 20px;
+  font-weight: 400;
+  font-size: 22px;
+}
+
+.timer--caption {
+  color: #A0A0A0;
+  font: 600 10px Tahoma, sans-serif;
+}
